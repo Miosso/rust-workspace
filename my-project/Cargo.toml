@@ -1,0 +1,7 @@
+[workspace]
+
+members = [
+    "main-one",
+    "main-two",
+    "shared",
+]
