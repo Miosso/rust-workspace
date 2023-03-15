@@ -72,4 +72,4 @@ Again, you can also check `main.rs` of crate `main-one` for examples.
 [Mods and "submods"](https://doc.rust-lang.org/stable/rust-by-example/mod/split.html)  
 
 ## Disclaimer
-I'm complitly new to Rust and comming from .NET C# is being a real struggle for me. So I may not be using the correct terms by referring to cargo, rust, crates and expose and even doing something that is potentially wrong. If this is the case, feel free to suggest corrections.
+I'm completely new to Rust and comming from .NET C# is being a real struggle for me. So I may not be using the correct terms by referring to cargo, rust, crates and expose and even doing something that is potentially wrong. If this is the case, feel free to suggest corrections.
